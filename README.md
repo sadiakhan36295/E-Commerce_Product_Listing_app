@@ -1,16 +1,27 @@
 # productlisting_app
 
-A new Flutter project.
+Overview
+The Product Listing App is a simple Flutter application designed to display a list of products in a grid format. It provides basic functionalities like searching, filtering, and sorting products by price and rating. The app also visually represents product availability, discounts, and customer ratings.
+This project is structured with clean architecture in mind, making use of GetX for state management and navigation.
 
-## Getting Started
+Features
+🛒 Product Grid View: Displays products with images, name, price, old price, discount, rating, reviews, and stock status.
 
-This project is a starting point for a Flutter application.
+🔎 Search Functionality: Search for products by name in real-time.
 
-A few resources to get you started if this is your first Flutter project:
+📈 Sorting:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Sort products by Price (High to Low).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sort products by Price (Low to High).
+
+Sort products by Rating.
+
+🎯 Filtering Panel: Bottom sheet for quick access to search and sort options.
+
+❤️ Favorite and Out of Stock Tags: Easily see which products are favorited or unavailable.
+
+⚡ Smooth and Responsive UI: Built with Flutter's flexible layout and modern design.
+
+Here is the app screenshoot:
+
