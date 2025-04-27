@@ -18,8 +18,8 @@ class ProductService {
         isOutOfStock: false,
       ),
       ProductModel(
-        name: "MBJ Women's Solid Short Sleeve Boat Neck V ",
-        imageUrl: "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        name: "Mens Casual Slim Fit ",
+        imageUrl: "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
         price: 75.99,
         oldPrice: 90.00,
         discount: 20,
@@ -41,7 +41,7 @@ class ProductService {
       ),
 
        ProductModel(
-        name: "Bluetooth Speaker",
+        name: "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
         imageUrl: "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
         price: 43.94,
         oldPrice: 55.99,
@@ -53,7 +53,7 @@ class ProductService {
       ),
 
        ProductModel(
-        name: "Bluetooth Speaker",
+        name: "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
         imageUrl: "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
         price: 60,
         oldPrice: 69.99,
@@ -78,3 +78,4 @@ class ProductService {
     ];
   }
 }
+
